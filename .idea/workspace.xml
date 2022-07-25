@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/Test/Test.java" afterDir="false" />
+    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Test commit">
+      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/AdditionOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/FractionAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/SumOfFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/FirstAndLastOccuranceOfAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/IsArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MoveAllXAtLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOf_n_NaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +52,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Selection_sort">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function_based_programs.Average" />
+  <component name="RunManager" selected="Application.FractionAddition">
+    <configuration name="FractionAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_based_programs.FractionAddition" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
@@ -50,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algorithms.Bubble_sort" />
+    <configuration name="MoveAllXAtLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MoveAllXAtLast" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algorithms.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algorithms.Selection_sort" />
+    <configuration name="SumOfFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_based_programs.SumOfFactorial" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algorithms.*" />
+          <option name="PATTERN" value="Function_based_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swapping" />
+    <configuration name="SumOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_based_programs.SumOfOddNumbers" />
       <module name="Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Function_based_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArray" />
+    <configuration name="Sum_of_odd_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_based_programs.Sum_of_odd_numbers" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Function_based_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Selection_sort" />
-        <item itemvalue="Application.Bubble_sort" />
-        <item itemvalue="Application.Swapping" />
-        <item itemvalue="Application.TwoDArray" />
-        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.FractionAddition" />
+        <item itemvalue="Application.SumOfFactorial" />
+        <item itemvalue="Application.SumOfOddNumbers" />
+        <item itemvalue="Application.Sum_of_odd_numbers" />
+        <item itemvalue="Application.MoveAllXAtLast" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657808758908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test commit">
+      <created>1657808974826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657808974826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
 </project>

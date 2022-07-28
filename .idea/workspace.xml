@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Test commit">
-      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/AdditionOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/FractionAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/SumOfFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function_based_programs/SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FirstAndLastOccuranceOfAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/IsArraySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MoveAllXAtLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOf_n_NaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/TowerOfHanoi.java" afterDir="false" />
+    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/UniqueSunbsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FractionAddition">
+  <component name="RunManager" selected="Application.UniqueSunbsequence">
     <configuration name="FractionAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Function_based_programs.FractionAddition" />
       <module name="Java practice" />
@@ -66,8 +53,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveAllXAtLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MoveAllXAtLast" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.RemoveDuplicates" />
+      <module name="Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Subsequences" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
@@ -92,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function_based_programs.SumOfOddNumbers" />
+    <configuration name="UniqueSunbsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.UniqueSunbsequence" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function_based_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_of_odd_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function_based_programs.Sum_of_odd_numbers" />
-      <module name="Java practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Function_based_programs.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueSunbsequence" />
+        <item itemvalue="Application.Subsequences" />
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.FractionAddition" />
         <item itemvalue="Application.SumOfFactorial" />
-        <item itemvalue="Application.SumOfOddNumbers" />
-        <item itemvalue="Application.Sum_of_odd_numbers" />
-        <item itemvalue="Application.MoveAllXAtLast" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657808974826</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1658755366183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658755366183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>

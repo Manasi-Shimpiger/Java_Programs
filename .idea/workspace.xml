@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Fourth commit">
-      <change afterPath="$PROJECT_DIR$/src/Java_lab2b/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_lab2b/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_lab2b/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_lab2b/Triangle.java" afterDir="false" />
+    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Fifth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +37,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Shapes">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_List.Basics" />
+  <component name="RunManager" selected="Application.GCD">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Fibonacci" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Linked_List.*" />
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.GCD" />
+      <module name="Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Subsequences" />
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.TowerOfHanoi" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
@@ -93,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueSunbsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.UniqueSunbsequence" />
-      <module name="Java practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Shapes" />
         <item itemvalue="Application.TwoArraysSortAndMerge" />
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.UniqueSunbsequence" />
-        <item itemvalue="Application.Subsequences" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659384271741</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fifth commit">
+      <created>1659636096922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659636096922</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +184,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
+    <MESSAGE value="Fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
   </component>
 </project>

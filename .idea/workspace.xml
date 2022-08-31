@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Seventh commit">
-      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/Linear_search.java" afterDir="false" />
+    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Eigth commit">
+      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/LinearSearchInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/MaxNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/MinNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/SearchIn2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +40,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Linear_search">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Fibonacci" />
+  <component name="RunManager" selected="Application.SearchIn2DArray">
+    <configuration name="LinearSearchInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching_algorithm.LinearSearchInString" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.GCD" />
-      <module name="Java practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Searching_algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algorithms.QuickSort" />
+    <configuration name="MaxNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching_algorithm.MaxNumberInArray" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algorithms.*" />
+          <option name="PATTERN" value="Searching_algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.TowerOfHanoi" />
+    <configuration name="MinNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching_algorithm.MinNumberInArray" />
       <module name="Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Searching_algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching_algorithm.SearchIn2DArray" />
+      <module name="Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching_algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchIn2DArray" />
+        <item itemvalue="Application.MaxNumberInArray" />
+        <item itemvalue="Application.MinNumberInArray" />
+        <item itemvalue="Application.LinearSearchInString" />
         <item itemvalue="Application.Linear_search" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.TowerOfHanoi" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661435911164</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Eigth commit">
+      <created>1661871818790</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661871818790</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +211,7 @@
     <MESSAGE value="Fifth commit" />
     <MESSAGE value="Sixth commit" />
     <MESSAGE value="Seventh commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seventh commit" />
+    <MESSAGE value="Eigth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eigth commit" />
   </component>
 </project>

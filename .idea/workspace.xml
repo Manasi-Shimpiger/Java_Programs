@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Ninth commit">
-      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching_algorithm/MinValueIn2DArray.java" afterDir="false" />
+    <list default="true" id="f5757c85-c400-4390-894f-2dcd4f4b3fc8" name="Changes" comment="Tenth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching_algorithm/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching_algorithm/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661921356952</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tenth commit">
+      <created>1661926242715</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661926242715</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +224,7 @@
     <MESSAGE value="Seventh commit" />
     <MESSAGE value="Eigth commit" />
     <MESSAGE value="Ninth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ninth commit" />
+    <MESSAGE value="Tenth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tenth commit" />
   </component>
 </project>
